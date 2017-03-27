@@ -9,9 +9,12 @@ Currently, examples of the following methods are available:
 * Finite Temperature String Method [1]
 
 
+Currently, examples of the following methods are in progress:
 
+* Metadynamics
+* Basis Function Sampling
 
-
+More to come later!
 
 
 ## References 
