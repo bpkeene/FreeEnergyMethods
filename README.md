@@ -1,20 +1,10 @@
 # FreeEnergyMethods
-A suite of Jupyter Notebooks implementing simple examples of methods and algorithms commonly used for computing free energies of molecular systems.
+A Jupyter Notebook implementing a simple example of the Finite Temperature String method commonly used for computing free energies of molecular systems.
 
 
-## Sampling Methods
-
-Currently, examples of the following methods are available: 
+## Sampling Method
 
 * Finite Temperature String Method [1]
-
-
-Currently, examples of the following methods are in progress:
-
-* Metadynamics
-* Basis Function Sampling
-
-More to come later!
 
 
 ## References 
